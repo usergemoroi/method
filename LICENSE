@@ -1,0 +1,42 @@
+MIT License
+
+Copyright (c) 2024 XDSDK Patcher Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER:
+
+This software is provided for educational and research purposes only.
+The authors and contributors are not responsible for any misuse of this software.
+
+Users are responsible for ensuring they have the legal right to modify any
+applications they process with this software. Modification of third-party
+applications may violate terms of service, copyright laws, or other regulations
+in your jurisdiction.
+
+By using this software, you acknowledge that:
+- You will only use it on applications you own or have explicit permission to modify
+- You understand the legal implications in your jurisdiction
+- You will not use it to bypass license checks for commercial gain
+- You will not redistribute modified versions of third-party applications
+
+The authors make no warranties about the effectiveness or safety of this software.
+Use at your own risk.

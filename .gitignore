@@ -1,0 +1,57 @@
+# Декомпилированные файлы
+decompiled/
+*.apk.bak
+
+# APK файлы
+*.apk
+!app-patched.apk
+*.apks
+*.aab
+
+# Keystore (НЕ коммитить в production!)
+*.keystore
+*.jks
+!release.keystore
+
+# Временные файлы
+*.tmp
+*.patched
+*.original
+*.backup
+
+# Native библиотеки (временные)
+*.so.bak
+*.so.patched
+
+# Логи
+*.log
+logcat.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# APKTool
+*.apk.idsig
+original/
+
+# Build artifacts
+build/
+dist/
+*.dex
